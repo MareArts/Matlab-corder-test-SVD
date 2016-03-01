@@ -1,4 +1,4 @@
-# Matlab-corder-test-SVD-4x2
+# Matlab-corder-test-SVD
 
 Refer to detail description in here<br>
 http://study.marearts.com/2016/02/svd-function-built-in-matlab-convert-to.html
